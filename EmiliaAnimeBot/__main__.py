@@ -84,7 +84,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-          text="✒ Source", url="https://github.com/IzumiCypherX/EmiliaAnimeBot" # If you have a bit of dignity left in you, Do NOT Remove this Button
+          text="✒ Source", url="@jaihindupuramking" # If you have a bit of dignity left in you, Do NOT Remove this Button
         ),
      
     ],
